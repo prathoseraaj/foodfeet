@@ -114,7 +114,12 @@ export const menu_list = [
     {
         menu_name: "Noodles",
         menu_image: menu_8
-    }]
+    },
+    {
+        menu_name: "Salad",
+        menu_image: menu_1
+    },
+    ]
 
 export const food_list = [
     {
