@@ -1,0 +1,40 @@
+.header{
+    height: 34vw;
+    margin: 30px auto;
+    background: url('/home/prathoseraaj-v/Documents/Foodhub/foodhub/public/header_img.png')no-repeat;
+    background-size: contain;
+    position: relative;
+}
+
+.header-content{
+    position: absolute;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    gap: 1.5vw;
+    max-width: 50%;
+    bottom: 10%;
+    left: 6vw;
+    animation: fadeIn 3s;
+}
+
+.header-content h2 {
+    color: white;
+    font-weight: 500;
+    font-size: max(4.0vw,22px);
+}
+
+.header-content p {
+    color: white;
+    font-size: 1vw;
+}
+
+.header-content button{
+    border: none;
+    padding: 15px 30px;
+    border-radius: 35px;
+    color: grey;
+    font-weight: 500;
+}
