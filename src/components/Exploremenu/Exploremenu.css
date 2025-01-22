@@ -41,3 +41,10 @@
     margin: 10px;
     cursor: pointer;
 }
+
+.explore-menu hr{
+    margin: 10px 0px;
+    height: 2px;
+    background-color: #e2e2e2;
+    border: none;
+}
