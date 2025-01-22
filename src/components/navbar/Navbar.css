@@ -13,3 +13,24 @@
     color: #49557e;
     cursor: pointer;
 }
+
+.navbar-right{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+
+.navbar button{
+    background: transparent;
+    font-size: 16px;
+    color: #49557e;
+    border: 1px solid #49557e;
+    border-radius: 10px;
+    padding: 10px 30px;
+    cursor: pointer;
+    transition: 0.6s;
+}
+
+.navbar button:hover{
+    background-color: #b5c7f9;
+}
