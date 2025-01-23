@@ -23,6 +23,10 @@
     gap: 20px;
 }
 
+.footer-content-left img{
+    margin-top: -10px;
+}
+
 .footer-content-left li ,.footer-content-center li  ,.footer-content-right li{
     list-style: none;
     margin-bottom: 10px;

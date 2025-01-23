@@ -52,12 +52,13 @@
 @media (max-width:750px) {
 
     .header-content{
-        max-width: 55%;
+        max-width: 75%;
+
     }
     .header-content p{
         display: none;
     }
     .header-content button{
-        padding: 2vw 4vw;
+        padding: 1vw 3vw;
     }
 }
