@@ -53,3 +53,10 @@
     border: 4px solid #262626;
     padding: 2px;
 }
+
+@media (max-width:1050px) {
+    .explore-menu-test{
+        max-width: 100%;
+        font-size:14px ;
+    }
+}
