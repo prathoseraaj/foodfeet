@@ -14,6 +14,10 @@
     cursor: pointer;
 }
 
+.navbar .logo{
+    width: 250px;
+}
+
 .navbar-right{
     display: flex;
     gap: 40px;
