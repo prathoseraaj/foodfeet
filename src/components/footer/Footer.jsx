@@ -37,6 +37,8 @@ const Footer = () => {
                 </ul>
             </div>
         </div>
+        <hr />
+        <p className='footer-copyright'>Copyrights 2024 © prathoseraaj0312@gmail.com - All Rights Reserved.</p>
     </div>
   )
 }
