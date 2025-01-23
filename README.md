@@ -1,7 +1,7 @@
 # FoodFleet
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![React.js](https://img.shields.io/badge/react.js-17.0.2-blue)](https://reactjs.org/)
+[![React.js](https://img.shields.io/badge/react.js-19.0.0-blue)](https://reactjs.org/)
 
 FoodFleet is a modern and user-friendly food delivery application designed to connect customers which deliver delicious meals straight to their doorstep.
 
