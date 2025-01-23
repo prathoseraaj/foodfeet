@@ -41,6 +41,28 @@ const Cart = () => {
 
                 }
             </div>
+            <div className="cart-bottom">
+                <div className='cart-total'>
+                    <h2>Cart Total</h2>
+                    <div>
+                        <div className='cart-total-details'>
+                            <p>Subtotal</p>
+                            <p>{0}</p>
+                        </div>
+                        <hr />
+                        <div className='cart-total-details'>
+                            <p>Delivery fee</p>
+                            <p>{2}</p>
+                        </div>
+                        <hr />
+                        <div className='cart-total-details'>
+                            <p>Total</p>
+                            <p>{0}</p>
+                        </div>
+                    </div>
+                    <button>Proceed to checkout</button>
+                </div>
+            </div>
         </div>
     )
 }
