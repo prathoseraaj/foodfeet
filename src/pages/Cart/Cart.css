@@ -44,7 +44,7 @@
    gap: 20px; 
 }
 
-.cart-total-detail{
+.cart-total-details{
     display: flex;
     justify-content:space-between ;
     color: #555;
