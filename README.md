@@ -32,12 +32,22 @@ FoodFleet is a modern and user-friendly food delivery application designed to co
    cd FoodFleet
    ```
 3. Install dependencies:
+   Using npm:
    ```bash
    npm install
    ```
+   Or using yarn:
+   ```bash
+   yarn install
+   ```
 4. Start the development server:
+   Using npm:
    ```bash
    npm start
+   ```
+   Or using yarn:
+   ```bash
+   yarn start
    ```
 5. Open the app in your browser:
    ```
