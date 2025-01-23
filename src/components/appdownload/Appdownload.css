@@ -1,0 +1,14 @@
+.appdownload{
+    margin-top: 100px;
+    font-size: max(3vw,20px);
+    text-align: center;
+    font-weight: 500;
+}
+
+.appdownload-icons{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    gap: max(2vw,10px);
+    margin-bottom: 80px;
+}
