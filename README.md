@@ -44,7 +44,7 @@ FoodFleet is a modern and user-friendly food delivery application designed to co
 ## Usage
 
 - **For Users**:
-  1. Browse restaurants and menus.
+  1. Browse Menus.
   2. Add items to the cart.
   3. View the cart summary.
 
