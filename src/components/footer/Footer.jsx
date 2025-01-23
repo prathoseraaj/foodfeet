@@ -16,8 +16,8 @@ const Footer = () => {
                 </p>
                 <div className="footer-content-left-icons">
                     <img src={assets.twitter_icon} alt="" />
-                    <img src={assets.facebook_icon_icon} alt="" />
-                    <img src={assets.linkedin_icon_icon} alt="" />
+                    <img src={assets.facebook_icon} alt="" />
+                    <img src={assets.linkedin_icon} alt="" />
                 </div>
             </div>
             <div className="footer-content-center">
