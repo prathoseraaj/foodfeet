@@ -4,7 +4,7 @@ import { assets } from '../../assets/frontend_assets/assets'
 
 const Footer = () => {
   return (
-    <div className='footer'>
+    <div className='footer' id='footer'>
         <div className='footer-content'>
             <div className="footer-content-left">
                 <img src={assets.logo} alt="" />
