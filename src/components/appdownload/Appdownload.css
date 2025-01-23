@@ -12,3 +12,14 @@
     gap: max(2vw,10px);
     margin-bottom: 80px;
 }
+
+.appdownload-icons img{
+    width: max(30vw,120px);
+    max-width: 180px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.appdownload-icons img:hover{
+    transform: scale(1.05);
+}
