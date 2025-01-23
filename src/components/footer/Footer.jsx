@@ -7,7 +7,7 @@ const Footer = () => {
     <div className='footer' id='footer'>
         <div className='footer-content'>
             <div className="footer-content-left">
-                <img src={assets.logo} alt="" />
+                <img src={assets.logo} width={'250px'} alt="" />
                 <p>
                 Crafted with passion, this project aims to deliver a seamless and user-friendly experience. 
                 Whether you're exploring or indulging, we prioritize simplicity and functionality to enhance your journey. 
