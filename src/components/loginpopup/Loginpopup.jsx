@@ -6,13 +6,15 @@ const Loginpopup = ({setShowlogin}) => {
     const [currentstate,setCurrentstate] = useState('Sign up');
   return (
     <div className='loginpopup'>
-        <form className='login-popup'>
-            <h2>Sign Up</h2>
-            <img onClick={()=>setShowlogin(false)} src={assets.cross_icon} alt="" />
+        <form className='login-popup-container'>
+            <div className='login-popup-title'>
+              <h2>Sign Up</h2>
+              <img onClick={()=>setShowlogin(false)} src={assets.cross_icon} alt="" />
+            </div>
             <div className='loginpopup-input'>
                 {currentstate==='Sign up'?<input type="text" placeholder='Name' required /> : <></> }
-            <input type="text" placeholder='Username' required/>
-            <input type="text" placeholder='Password' required/>
+                <input type="text" placeholder='Username' required/>
+                <input type="text" placeholder='Password' required/>
             </div>
             <button>{currentstate === 'Sign up'? 'Create Account' : 'Login In'}</button>
             <div className='login-popup-condition'>
