@@ -1,9 +1,12 @@
-.header{
+.header {
     height: 34vw;
+    width: 80vw; 
     margin: 30px auto;
-    background: url('/home/prathoseraaj-v/Documents/Foodhub/foodhub/public/header_img.png')no-repeat;
-    background-size: contain;
+    background: url('https://www.rd.com/wp-content/uploads/2020/01/hotel-snacks.jpg') no-repeat center;
+    background-size: 100% auto;
     position: relative;
+    border-radius: 20px; 
+    overflow: hidden; 
 }
 
 .header-content{
